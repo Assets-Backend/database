@@ -7,3 +7,6 @@
 [submodule "coordinator"]
 	path = coordinator
 	url = https://github.com/Assets-DB/coordinator.git
+[submodule "community"]
+	path = community
+	url = https://github.com/Assets-DB/community.git
