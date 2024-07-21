@@ -1,3 +1,6 @@
 [submodule "professional"]
 	path = professional
 	url = https://github.com/Assets-DB/professional.git
+[submodule "order"]
+	path = order
+	url = https://github.com/Assets-DB/order.git
