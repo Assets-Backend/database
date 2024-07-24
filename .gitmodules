@@ -10,3 +10,6 @@
 [submodule "community"]
 	path = community
 	url = https://github.com/Assets-DB/community.git
+[submodule "auth-mg"]
+	path = auth-mg
+	url = https://github.com/Assets-DB/auth-mg.git
